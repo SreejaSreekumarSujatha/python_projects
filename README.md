@@ -24,7 +24,7 @@ How to Use
 
 Clone this repository to your local machine:
 
-git clone https://github.com/SreejaSreekumarSujatha/SreejaDevWorks.git
+git clone https://github.com/SreejaSreekumarSujatha/python_projects.git
 
 2.Navigate to the project directory:
 
